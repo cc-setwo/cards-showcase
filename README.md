@@ -1,11 +1,16 @@
 # cards-showcase
 About code:
-- Custom Object Pool
-- Singleton
-- Cool implementation of interface
-- Almost using single responsibility principle
-- Using Bézier curves to move cards
-- Some kind of IoC for data bindigns
+- Custom Object Pool,
+- Singleton,
+- Cool implementation of interface,
+- Almost using single responsibility principle,
+- Using Bézier curves to move cards,
+- Some kind of IoC for data bindigns.
+
+Controls:
+Press "A" button on your keyboard to add the card,
+Press "R" button on your keyboard to remove the card,
+Press left mouse button on card more than 0.5 seconds to drag the card.
 
 
 ## Showcase
