@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\CC\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\CC\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_CardsTestTask.-1199883965.00" t="ExcludeRecursive" />
+    <e p="C:\Users\CC\Documents\CardsTestTask\CardsTestTask" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Controllers" t="Include">
+            <e p="CardDragController.cs" t="Include" />
+            <e p="CardGroupController.cs" t="Include" />
+            <e p="CardMoveController.cs" t="Include" />
+            <e p="CardMover.cs" t="Include" />
+            <e p="CardMoverBezier.cs" t="Include" />
+            <e p="IMover.cs" t="Include" />
+          </e>
+          <e p="Data" t="Include">
+            <e p="CardData.cs" t="Include" />
+            <e p="CardDataHolder.cs" t="Include" />
+            <e p="CardHolder.cs" t="Include" />
+            <e p="CardMoveBezierInfo.cs" t="Include" />
+            <e p="CardMoveInfo.cs" t="Include" />
+          </e>
+          <e p="Utils" t="Include">
+            <e p="MouseCallbackReceiver.cs" t="Include" />
+            <e p="Pool.cs" t="Include" />
+            <e p="Singleton.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="CardsTestTask.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

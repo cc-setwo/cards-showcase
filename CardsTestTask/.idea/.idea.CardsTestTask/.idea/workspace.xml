@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8cb8274-18f8-4ac4-9fca-40e596070c90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EAE584CE-26BC-4022-9C1B-1AA476BFA589/df/c2b2995d/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardMoveInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardPickUpController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/Swap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/SwapUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGroupController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardDataHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardDragController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardMoveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/Pool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/TransformExtenstions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/CardDataHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/MouseCallbackReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/CardMoveInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/CardBezierMoveInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/CardBezierMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/IMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/CardMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/CardMoverBezier.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/CardMoveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/CardMoveBezierInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/VectorExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/TransformExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/CardDragController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/CardData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/CardHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/CardGroupController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1twP7fTYR6z0gGKYVe8ugnuosgf" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34987342" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30025315" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8cb8274-18f8-4ac4-9fca-40e596070c90" name="Default Changelist" comment="" />
+      <created>1623677016214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623677016214</updated>
+      <workItem from="1623677019161" duration="13778000" />
+      <workItem from="1623742306163" duration="4640000" />
+      <workItem from="1623747037342" duration="12508000" />
+      <workItem from="1623828605557" duration="27000" />
+      <workItem from="1623937176887" duration="23000" />
+      <workItem from="1623937703466" duration="15000" />
+      <workItem from="1623957986443" duration="8180000" />
+      <workItem from="1624016491919" duration="114000" />
+      <workItem from="1624271137300" duration="1830000" />
+      <workItem from="1624282910935" duration="3830000" />
+      <workItem from="1624290007658" duration="578000" />
+      <workItem from="1624290601094" duration="30000" />
+      <workItem from="1624290651873" duration="41000" />
+      <workItem from="1624290775568" duration="156000" />
+      <workItem from="1624291095037" duration="624000" />
+      <workItem from="1624521581255" duration="625000" />
+      <workItem from="1625034338517" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2665" y="197" key="#Plugins" timestamp="1624290932088">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state x="2665" y="197" key="#Plugins/0.0.4096.1112@0.0.4096.1112" timestamp="1624290932088" />
+    <state width="483" height="464" key="DebuggerActiveHint" timestamp="1623964317042">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="483" height="464" key="DebuggerActiveHint/0.0.4096.1112@0.0.4096.1112" timestamp="1623964317042" />
+    <state width="2006" height="400" key="GridCell.Tab.0.bottom" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.0.bottom/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.0.center" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.0.center/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.0.left" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.0.left/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.0.right" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.0.right/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.1.bottom" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.1.bottom/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.1.center" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.1.center/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.1.left" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.1.left/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.1.right" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.1.right/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.2.bottom" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.2.bottom/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.2.center" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.2.center/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.2.left" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.2.left/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.2.right" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.2.right/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.3.bottom" timestamp="1623966236516">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.3.bottom/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236516" />
+    <state width="2006" height="400" key="GridCell.Tab.3.center" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.3.center/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.3.left" timestamp="1623966236515">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.3.left/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236515" />
+    <state width="2006" height="400" key="GridCell.Tab.3.right" timestamp="1623966236516">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state width="2006" height="400" key="GridCell.Tab.3.right/0.0.4096.1112@0.0.4096.1112" timestamp="1623966236516" />
+    <state x="2140" y="100" width="1864" height="912" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1623962556626">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state x="2140" y="100" width="1864" height="912" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.4096.1112@0.0.4096.1112" timestamp="1623962556626" />
+    <state x="2607" y="146" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1624284825846">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state x="2607" y="146" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.4096.1112@0.0.4096.1112" timestamp="1624284825846" />
+    <state x="2752" y="289" width="639" height="534" key="find.popup" timestamp="1624291278297">
+      <screen x="0" y="0" width="4096" height="1112" />
+    </state>
+    <state x="2752" y="289" width="639" height="534" key="find.popup/0.0.4096.1112@0.0.4096.1112" timestamp="1624291278297" />
+  </component>
+</project>
