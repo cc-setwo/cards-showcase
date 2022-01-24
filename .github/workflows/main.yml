@@ -16,7 +16,7 @@ on:
 jobs:
   build:
     name: Build my project ✨
-    runs-on: macos-latest
+    runs-on: macos-10.15
     steps:
       # Checkout
       - name: Checkout repository
